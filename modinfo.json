@@ -1,15 +1,14 @@
 {
-    "enabled" : true,
     "context" : "client",
     "identifier" : "com.pa.domdom.heart.ping",
     "display_name" : "Rainbow: Heart Ping",
     "description" : "Pings with love",
     "author" : "dom314",
-    "version" : "1.0.0",
-	"build": "80187",
-    "date": "2015/04/10",
+    "version" : "1.0.1",
+    "build": "89755",
+    "date": "2016/01/09",
     "forum": "https://forums.uberent.com/threads/rel-client-rainbow-heart-ping.68539/",
-    "category": ["ui", "effects", "hearts"],
+    "category": ["in-game", "effects", "hearts"],
     "icon": "http://i.imgur.com/k1A2Q53.gif",
     "priority": 100
 }
